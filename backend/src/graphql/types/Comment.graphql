@@ -1,0 +1,23 @@
+type Comment {
+  id: UUID!
+  userId: UUID!
+  body: String!
+  published: Boolean!
+  createdAt: Datetime!
+  updatedAt: Datetime!
+  postId: UUID!
+}
+
+type Query {
+  getComments: [Post!]
+}
+
+type Mutation {
+  createComment(input: CreatePostInput): Comment!
+}
+
+input CommentsInput {
+  
+  body: String!,
+    
+}
