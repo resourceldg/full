@@ -45,8 +45,4 @@ Optional additional items
 Issue default title:
 ### Coloca etiquetas y (de ser necesario, si los hay RESPONSABLES para su trabajo) 
 Assignees:
-Labels: 
-
-Comunicacion mas fluida **Telegram Groups or Slack**
- [link to Telegram!](https://t.me/joinchat/O8TIUByKHkYnpRRsIYj8OA)
- [link to Slack!](https://join.slack.com/t/resourceldg/shared_invite/zt-fxvzg4dt-X_7mGIznpef9j7Zatyzarw)
+Labels:
