@@ -4,7 +4,9 @@
 # Gracias por ser tan Open Source!!  :neckbeard: 
 # Thanks for being Open Source
 
-## Sharing is the best in the software universe...Please put a star if you consider this repository interesting!!
+
+## Compartir y colaborar son las cosas mas maravillosas del universo del software, pon una :star: si consideras este repositorio interesante !!
+## Sharing and colaborate are the best in the software universe...Please put a :star: if you consider this repository interesting!!
 
 ##  :busts_in_silhouette:  Social interaction 
 
@@ -18,9 +20,9 @@
  
  [link to Slack!](https://join.slack.com/t/resourceldg/shared_invite/zt-fxvzg4dt-X_7mGIznpef9j7Zatyzarw)
 
-## Un backend corto fuerte y efectivo con Sequelize GraphQL, Apollo, PostgreSQL
+## Un backend corto fuerte y efectivo con Sequelize, GraphQL, Apollo, PostgreSQL
 
-## Short & strong backend : Sequelize GraphQL, Apollo, PostgreSQL
+## Short & strong backend : Sequelize, GraphQL, Apollo, PostgreSQL
 
 ![image alt ><](backend1.png)
 
