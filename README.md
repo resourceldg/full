@@ -1,8 +1,13 @@
 
 ------------
 
+[![Join the chat at https://gitter.im/resourceldg/full](https://badges.gitter.im/resourceldg/full.svg)](https://gitter.im/resourceldg/full?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
+# Gracias por ser tan Open Source!!
+
 # Gracias por ser tan Open Source !!  :neckbeard: 
 # Thanks for being so Open Source !!
+
 
 
 ## Compartir y colaborar son las cosas mas maravillosas del universo del software, pon una :star: si consideras este repositorio interesante !!
