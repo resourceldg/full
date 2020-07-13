@@ -3,7 +3,13 @@
 
 # Gracias por ser tan Open Source!!
 
-## Stackfull: Secualize GraphQL, Apollo, PostgreSQL, Svelte(Sapper/Rollup)
+
+## Backend Stackfull: Secualize GraphQL, Apollo, PostgreSQL
+
+
+![image alt ><](backend.png)
+
+## Svelte(Sapper/Rollup)
 
 - ## Getting Started!!
 
