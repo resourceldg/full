@@ -1,12 +1,12 @@
 
 ------------
 
-# Gracias por ser tan Open Source!!  :neckbeard: 
-# Thanks for being Open Source
+# Gracias por ser tan Open Source !!  :neckbeard: 
+# Thanks for being so Open Source !!
 
 
 ## Compartir y colaborar son las cosas mas maravillosas del universo del software, pon una :star: si consideras este repositorio interesante !!
-## Sharing and colaborate are the best in the software universe...Please put a :star: if you consider this repository interesting!!
+## Sharing and colaborate are the best practice in the software galaxy...Please put a :star: if you consider this repository interesting!!
 
 ###  :busts_in_silhouette:  Social interaction 
 
