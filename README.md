@@ -18,9 +18,9 @@
  
  [link to Slack!](https://join.slack.com/t/resourceldg/shared_invite/zt-fxvzg4dt-X_7mGIznpef9j7Zatyzarw)
 
-## Un backend corto fuerte y efectivo con Secualize GraphQL, Apollo, PostgreSQL
+## Un backend corto fuerte y efectivo con Sequelize GraphQL, Apollo, PostgreSQL
 
-## Short & strong backend : Secualize GraphQL, Apollo, PostgreSQL
+## Short & strong backend : Sequelize GraphQL, Apollo, PostgreSQL
 
 ![image alt ><](backend1.png)
 
