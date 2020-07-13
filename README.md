@@ -7,7 +7,7 @@
 ## Backend Stackfull: Secualize GraphQL, Apollo, PostgreSQL
 
 
-![image alt ><](backend.png)
+![image alt ><](backend1.png)
 
 ## Svelte(Sapper/Rollup)
 
