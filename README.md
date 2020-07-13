@@ -4,14 +4,16 @@
 # Gracias por ser tan Open Source!!
 
 
-## Backend Stackfull: Secualize GraphQL, Apollo, PostgreSQL
+## Short & strong backend : Secualize GraphQL, Apollo, PostgreSQL
+
+![image alt ><](backend1.png)
 
 
-![image alt >< ](backend1.png)
+## Full reactive frontend Svelte(Sapper/Rollup)
 
-## Svelte(Sapper/Rollup)
+![image alt ><](frontendlogo.png)
 
-- ## Getting Started!!
+## Getting Started!!
 
 `1. git clone https://github.com/resourceldg/full.git`
 
